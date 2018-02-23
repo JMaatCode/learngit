@@ -3,6 +3,11 @@ MySQL
 MySQL服务
 https://github.com/mysql/mysql-server.git
 
+NoSql
+
+MongoDB可视化工具
+https://github.com/mrvautin/adminMongo
+
 PHP
 
 PHP 之道
