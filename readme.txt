@@ -25,3 +25,6 @@ https://github.com/requests/requests/
 BeautifulSoup模块
 https://github.com/DeronW/beautifulsoup
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html 中文文档
+
+Elasticsearch
+https://github.com/elastic/elasticsearch
