@@ -28,3 +28,6 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html 中文文档
 
 Elasticsearch
 https://github.com/elastic/elasticsearch
+
+自动生成接口文档
+https://github.com/apidoc/apidoc
