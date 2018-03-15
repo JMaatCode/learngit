@@ -31,3 +31,6 @@ https://github.com/elastic/elasticsearch
 
 自动生成接口文档
 https://github.com/apidoc/apidoc
+
+Faker: 用于生成假数据的 PHP 类库
+https://github.com/fzaninotto/Faker?utm_source=gold_browser_extension
