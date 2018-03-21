@@ -38,6 +38,9 @@ https://github.com/elastic/elasticsearch
 自动生成接口文档
 https://github.com/apidoc/apidoc
 
+redis Window安装
+https://github.com/MicrosoftArchive/redis
+
 专业实用的开源接口管理平台
 https://github.com/duolatech/xApi-Manager
 
