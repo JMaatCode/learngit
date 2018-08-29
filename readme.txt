@@ -34,6 +34,8 @@ https://github.com/NoahBuscher/Macaw
 
 Elasticsearch
 https://github.com/elastic/elasticsearch
+head插件
+https://github.com/mobz/elasticsearch-head
 
 自动生成接口文档
 https://github.com/apidoc/apidoc
