@@ -17,6 +17,8 @@ laravel
 
 excel扩展
 https://github.com/Maatwebsite/Laravel-Excel
+管理扩展包后台
+https://github.com/the-control-group/voyager?utm_source=gold_browser_extension
 
 python
 
